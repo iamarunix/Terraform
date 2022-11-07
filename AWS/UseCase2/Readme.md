@@ -1,4 +1,7 @@
 # AWS EC2 creation with WebServer using Terraform script
+### Scope
+> Let's create an EC2 instance with WebServer using the below script in a matter of seconds rather than using the AWS GUI and wasting 4-5 minutes by choosing various options. 
+
 
 ## Step 1 - Login into the machine where you have installed Terraform
 ## Step 2 - Configure the AWS CLI using the user created in IAM
