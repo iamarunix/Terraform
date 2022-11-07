@@ -2,6 +2,8 @@
 
 ### Takeaway from this usecase:
 > Let's create an EC2 instance using the below script in a matter of seconds rather than using the AWS GUI and wasting 4-5 minutes by choosing various options. 
+### Note:
+> You can modify this script and use it for a variety of purposes.
 
 ## Step 1 - Login into the machine where you have installed Terraform
 ## Step 2 - Configure the AWS CLI using the user created in IAM
