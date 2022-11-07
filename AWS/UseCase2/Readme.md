@@ -1,5 +1,7 @@
 # AWS EC2 creation with WebServer using Terraform script
-### Scope
+
+### Takeaway from this usecase:
+
 > Let's create an EC2 instance with WebServer using the below script in a matter of seconds rather than using the AWS GUI and wasting 4-5 minutes by choosing various options. 
 
 
