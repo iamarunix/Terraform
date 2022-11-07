@@ -1,5 +1,10 @@
 
-# AWS EC2 creation using Terraform script
+# AWS EC2 creation with Public and Private IPs using Terraform script
+
+
+### Takeaway from this usecase:
+> Rather than using the AWS GUI and wasting 4-5 minutes by choosing various options to create EC2 instance with Public and Private IPs, let's create using below terraform script in a matter of seconds.
+
 
 ## Step 1 - Login into the machine where you have installed Terraform
 ## Step 2 - Configure the AWS CLI using the user created in IAM
