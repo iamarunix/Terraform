@@ -1,5 +1,7 @@
 # Terraform installation in Redhat Linux
 
+![Watch the image](/aws/Usecase1/usecase-1.png)
+
 
 ## Step 1: Get to know your OS version
 ```
