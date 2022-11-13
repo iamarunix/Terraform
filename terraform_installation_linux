@@ -1,8 +1,8 @@
-
-## Step 1: Get to know your OS version
+# Step 1: Get to know your OS version
+```
 $ uname -r
 4.18.0-372.9.1.el8.x86_64
-
+```
 ## Step 2: Install the packages wget and unzip
 $ sudo yum install wget unzip -y
 
