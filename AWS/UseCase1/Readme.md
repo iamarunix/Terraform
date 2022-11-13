@@ -1,4 +1,6 @@
 # AWS EC2 creation using Terraform script
+![Watch the image](/aws_terraform.JPG)
+
 
 ### Takeaway from this usecase:
 > Let's create an EC2 instance using the below script in a matter of seconds rather than using the AWS GUI and wasting 4-5 minutes by choosing various options. 
