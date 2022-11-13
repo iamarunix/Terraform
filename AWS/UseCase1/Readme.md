@@ -1,5 +1,5 @@
 # AWS EC2 creation using Terraform script
-![Watch the image](/aws_terraform.JPG)
+![Watch the image](aws_terraform.JPG)
 
 
 ### Takeaway from this usecase:
