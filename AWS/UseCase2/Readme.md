@@ -1,4 +1,4 @@
-# AWS EC2 creation with WebServer using Terraform script
+# UseCase2 - AWS EC2 creation with WebServer using Terraform script
 
 ### Takeaway from this usecase:
 
