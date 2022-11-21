@@ -1,4 +1,4 @@
-# AWS EC2 creation using Terraform script
+# UseCase1 - AWS EC2 creation using Terraform script
 ![Watch the image](aws_terraform.JPG)
 
 
