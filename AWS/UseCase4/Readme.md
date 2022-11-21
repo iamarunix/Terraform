@@ -1,4 +1,4 @@
-# AWS EC2 creation using Terraform  script
+# UseCase4 - AWS EC2 creation using Terraform  script
 
 
 ### Takeaway from this usecase:
