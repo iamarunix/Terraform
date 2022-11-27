@@ -30,7 +30,7 @@ resource "aws_instance" "Linux_Server"{
 ```
 ## Step 4 - Execute below command to compile the current folder for terraform  
 
-$ init terraform
+$ terraform init 
 
 ## Step 5 - Execute the terraform script to create AWS EC2 instance
 $ terraform --apply 
