@@ -33,6 +33,6 @@ resource "aws_instance" "Linux_Server"{
 $ terraform init 
 
 ## Step 5 - Execute the terraform script to create AWS EC2 instance
-$ terraform --apply 
+$ terraform apply 
 
 ## Step 6 - Verify it from AWS Console
