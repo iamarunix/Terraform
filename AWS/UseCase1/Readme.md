@@ -23,9 +23,9 @@ resource "aws_instance" "Linux_Server"{
           instance_type     = "t2.micro"               # Instance Type 
           availability_zone = "us-east-1d"	       # Datacenter 	  
 		    
-		 tags = {
-                         Name = "Linux_Server"         # Instance Name
-                         }
+             tags = {
+                       Name = "RedHat_Linux_Server"    # Instance Name
+                    }
 }
 ```
 ## Step 4 - Execute below command to compile the current folder for terraform  
