@@ -10,8 +10,8 @@
 ### Hint:
 > You can modify this script template and use it for a various usecases 
 
-## Step 1 - Login into the machine where you have installed Terraform
-## Step 2 - Configure the AWS CLI using the user created in IAM
+## Step 1 - Login into the machine where Terraform and AWSCLI is installed 
+## Step 2 - Check whether AWS CLI is configured
 ## Step 3 - Save below script in with .tf extention
 
 ```
@@ -19,13 +19,13 @@ provider "aws" {
         region = "us-east-1"
                }
 resource "aws_instance" "Linux_Server"{
-          ami               = "ami-06640050dc3f556bb"  # OS Name
+          ami               = "ami-06640050dc3f556bb"  # AMI ID for RHEL OS
           instance_type     = "t2.micro"               # Instance Type 
           availability_zone = "us-east-1d"	       # Datacenter 	  
 		    
 		 tags = {
-            Name = "Linux_Server"                      # Instance Name
-                }
+                         Name = "Linux_Server"         # Instance Name
+                         }
 }
 ```
 ## Step 4 - Execute below command to compile the current folder for terraform  
